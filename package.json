@@ -1,0 +1,27 @@
+{
+  "name": "command_deri",
+  "version": "1.0.0",
+  "description": "Command promt to get derivatives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "command_deri": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TschoepeRad68/command_deri.git"
+  },
+  "homepage": "https://github.com/TschoepeRad68/",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "TschoepeRad68",
+  "license": "MIT"
+}
